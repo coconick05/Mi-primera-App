@@ -5,4 +5,5 @@ from PIL import Image
 st.title("HOLA! mi nombre es nicky")
 
 st.header("Gata negra cool")
-st.write
+st.write("La gata tiene lentes")
+image = Image.open("gatocool.")
